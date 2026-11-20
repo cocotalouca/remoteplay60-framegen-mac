@@ -1,0 +1,7 @@
+# build outputs
+RemotePlay60.app/
+build/
+# diagnostics
+diagnostico-janela.png
+*.log
+.DS_Store
